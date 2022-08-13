@@ -1,4 +1,4 @@
-This stopwatch needs three buttons for user interaction:
+This athletic stopwatch needs three buttons for user interaction:
 
 Start:
 
