@@ -1,7 +1,7 @@
 This stopwatch needs three buttons for user interaction:
 
-Start
+Start:
 
-Stop
+Stop:
 
-Reset
+Reset:
