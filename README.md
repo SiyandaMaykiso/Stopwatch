@@ -5,3 +5,5 @@ Start:
 Stop:
 
 Reset:
+
+I used, html, javascript and mixins in the css.
